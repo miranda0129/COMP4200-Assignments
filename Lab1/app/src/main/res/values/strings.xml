@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title">O Canada</string>
+    <string name="article_subtitle">Lyrics</string>
+    <string name="article_text">O Canada!\n\n
+        Our home and native land!\n\n
+        True patriot love in all of us command.\n\n
+        Car ton bras sait porter l\'épée,\n\n
+        Il sait porter la croix!\n\n
+        Ton histoire est une épopée\n\n
+        Des plus brillants exploits.\n\n
+        God keep our land glorious and free!\n\n
+        O Canada, we stand on guard for thee.\n\n
+        O Canada, we stand on guard for thee.</string>
+</resources>
