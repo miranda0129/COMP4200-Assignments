@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="UpBtnDesc">increase timer by 1 second</string>
+    <string name="DownBtnDesc">decrease timer by 1 second</string>
+    <string name="titleLabel">count down timer</string>
+    <string name="unitsOfTimer">seconds</string>
+    <string name="startButtonLabel">Start</string>
+    <string name="stopBtnLabel">Stop</string>
+    <string name="resetBtnLabel">Reset</string>
+</resources>

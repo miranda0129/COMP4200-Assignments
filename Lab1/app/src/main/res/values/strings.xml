@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">ScrollingText</string>
-    <string name="article_title">O Canada</string>
-    <string name="article_subtitle">Lyrics</string>
+    <string name="app_name">O Canada!</string>
+    <string name="article_title">Lyrics</string>
+    <string name="article_subtitle">Bilingual Version</string>
     <string name="article_text">O Canada!\n\n
         Our home and native land!\n\n
         True patriot love in all of us command.\n\n
