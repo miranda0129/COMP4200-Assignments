@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+MERGED from [com.android.support:design:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b0b04aafbca0e4916718a53e7d7b71d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c30d442a6c24f4514130f35e443d384c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/60d78c93f7c74bdc75b48cb013902929/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/74b47c0ed5444e1e3f73986be2f3265a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b1511da506684c8d5a96eb9c9ccd97ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/05e4fae5919e8e62df5e23c01bb3e076/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc7103693709276eefc6b9793fcaf6f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/208646bda8b0554c1b5f7bbba4343f46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/853816c56680a13a6ffa36cacdecbb17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/39ee87521f3390a53915913338997070/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9316f97e597c4eb4eb7c8df68ad06b1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/37f3d535c387990d0cd03378b1840e11/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4154a35b23f3fdadb37a9bf154cb50fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/73405fa959e6426d12f1c53daf8dc2dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b2fc7135d373638dcb6bca6c8be8e19f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb32e9cdb3dd18e1e3cedcd9f341b240/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+	package
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:17:5-54
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:1-37:12
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:19:5-35:19
+	android:supportsRtl
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.navdrawerexperiment.MainActivity
+ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:26:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b0b04aafbca0e4916718a53e7d7b71d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b0b04aafbca0e4916718a53e7d7b71d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c30d442a6c24f4514130f35e443d384c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c30d442a6c24f4514130f35e443d384c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/60d78c93f7c74bdc75b48cb013902929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/60d78c93f7c74bdc75b48cb013902929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/74b47c0ed5444e1e3f73986be2f3265a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/74b47c0ed5444e1e3f73986be2f3265a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b1511da506684c8d5a96eb9c9ccd97ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b1511da506684c8d5a96eb9c9ccd97ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/05e4fae5919e8e62df5e23c01bb3e076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/05e4fae5919e8e62df5e23c01bb3e076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc7103693709276eefc6b9793fcaf6f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc7103693709276eefc6b9793fcaf6f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/208646bda8b0554c1b5f7bbba4343f46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/208646bda8b0554c1b5f7bbba4343f46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/853816c56680a13a6ffa36cacdecbb17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/853816c56680a13a6ffa36cacdecbb17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/39ee87521f3390a53915913338997070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/39ee87521f3390a53915913338997070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9316f97e597c4eb4eb7c8df68ad06b1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9316f97e597c4eb4eb7c8df68ad06b1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/37f3d535c387990d0cd03378b1840e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/miranda/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/37f3d535c387990d0cd03378b1840e11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4154a35b23f3fdadb37a9bf154cb50fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4154a35b23f3fdadb37a9bf154cb50fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/73405fa959e6426d12f1c53daf8dc2dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/73405fa959e6426d12f1c53daf8dc2dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b2fc7135d373638dcb6bca6c8be8e19f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b2fc7135d373638dcb6bca6c8be8e19f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb32e9cdb3dd18e1e3cedcd9f341b240/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/miranda/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb32e9cdb3dd18e1e3cedcd9f341b240/AndroidManifest.xml:20:5-44
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miranda/Desktop/lab3/app/src/main/AndroidManifest.xml

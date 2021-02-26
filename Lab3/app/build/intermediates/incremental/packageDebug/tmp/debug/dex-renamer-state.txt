@@ -1,0 +1,4 @@
+#Fri Feb 26 15:49:10 EST 2021
+base.0=/Users/miranda/Desktop/lab3/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
