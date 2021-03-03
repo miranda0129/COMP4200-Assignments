@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="question1">The transit of Venus allowed scientists to calculate the size of our solar system as early as 1761–1769</string>
+    <string name="question2">The atmospheric pressure on Mars is lower than on Earth, causing humans to boil if exposed directly to the atmosphere</string>
+    <string name="question3">The Earth is flat</string>
+    <string name="question4">In the Pythagoras’s model the Earth was placed in the middle of the Universe, where the stars, Moon and planets were attached to celestial spheres orbiting the Earth</string>
+    <string name="question5">Helium was named after the greek word helios, meaning sun, after being discovered by observing the sun</string>
+    <string name="question6">Eratosthenes calculated the circumference of the Earth in 500 BC by using geometry and shadows cast in the two cities Alexandria and Syene</string>
+    <string name="space_quiz_extreme">Space Quiz Extreme</string>
+    <string name="true_response">True</string>
+    <string name="false_response">False</string>
+    <string name="next_question">Next</string>
+    <string name="photo_description">Close up of Saturn by NASA</string>
+</resources>
