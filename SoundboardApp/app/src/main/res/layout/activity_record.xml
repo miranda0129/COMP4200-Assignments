@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".record">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:src="@android:drawable/ic_btn_speak_now" />
+
+    <TextView
+        android:layout_width="400sp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:id="@+id/nameMessage"
+        android:text="Enter in a display name"
+        android:textSize="24dp"
+        android:layout_below="@id/logo" />
+
+    <EditText
+        android:id="@+id/plain_text_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nameMessage"
+        android:layout_marginTop="0dp"
+        android:inputType="text" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Record"
+        android:textSize="20sp"
+        android:id="@+id/record"
+        android:layout_below="@id/plain_text_input"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:textSize="20sp"
+        android:id="@+id/stop"
+        android:layout_below="@id/record"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play"
+        android:textSize="20sp"
+        android:id="@+id/play"
+        android:layout_below="@id/stop"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:textSize="20sp"
+        android:id="@+id/save"
+        android:layout_below="@id/play"
+        android:onClick="selectSaveSlot"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+
+
+</RelativeLayout>

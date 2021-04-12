@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".settings">
+
+    <TextView
+        android:id="@+id/themeMessage"
+        android:layout_width="match_parent"
+        android:layout_height="75sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="120dp"
+        android:text="Choose a colour theme"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/themePurple"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/purple"
+        android:text="Purple"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/themeBlue"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/themeBlue"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/blue"
+        android:text="Blue"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/themePurple"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
